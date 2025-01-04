@@ -7,5 +7,6 @@ azurefuntion/server/local.settings.json
 *.lock
 *.log
 
+
 .DS_Store
 Thumbs.db
