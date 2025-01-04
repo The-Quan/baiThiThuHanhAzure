@@ -1,0 +1,11 @@
+client/node_modules
+server/node_modules
+
+azurefuntion/server/local.settings.json
+*.env
+
+*.lock
+*.log
+
+.DS_Store
+Thumbs.db
